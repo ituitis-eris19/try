@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8"/>
+        <title> Details Trial</title>
+    </head>
+
+    <body>
+        <h1> This site is a trial for details tag</h1>
+        <details>
+            <summary>Selman Eris</summary>
+            <p>Email:eris19@itu.edu.tr</p>
+            <p>Secret Anti-Robot Super Power:Stuns robots with his eyes. </p>
+        </details>
+
+        <details>
+            <summary>Mert Cevik</summary>
+            <p>Email:@itu.edu.tr</p>
+            <p>Secret Anti-Robot Super Power:Dashes forward. </p>
+        </details>
+        <details>
+            <summary>Onur</summary>
+            <p>Email:@itu.edu.tr </p>
+            <p>Secret Anti-Robot Super Power:Knocks down with his punch. </p>
+        </details>
+
+    </body>
+</html>
